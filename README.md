@@ -46,7 +46,7 @@ If you want to login Django admin panel and manage API data, you must run first 
 
 * python3 manage.py createsuperuser
 
-after type (http://localhost:8000/admin/) on your browser and fill form with your username and password provided before.
+after type [localhost:8000/admin/](http://localhost:8000/admin/) on your browser and fill form with your username and password provided before.
 
 ## Routing dependencies
 
